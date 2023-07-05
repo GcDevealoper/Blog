@@ -30,15 +30,15 @@
 	   <p>
 	   La historia de los semiconductores es una de las más fascinantes en el campo de la tecnología y ha revolucionado la forma en que vivimos y nos comunicamos en la actualidad.<br><br>	   
 	   Todo comenzó a finales del siglo XIX, cuando científicos como Thomas Edison y Nikola Tesla estaban experimentando con electricidad y descubrieron que ciertos materiales, como el silicio y el germanio, tenían propiedades eléctricas únicas. Estos materiales, conocidos como semiconductores, tenían la capacidad de conducir la electricidad de manera intermedia entre los conductores (como el cobre) y los aislantes (como el vidrio).<br><br>
-	   <img src="./Media/semi5.avif" style="width: 100%;"><br><br>
+	   <img src="Media/semi5.avif" style="width: 100%;"><br><br>
 	   Sin embargo, no fue hasta la década de 1940 cuando los semiconductores comenzaron a ser utilizados en aplicaciones prácticas. Durante la Segunda Guerra Mundial, los científicos investigaban cómo utilizar semiconductores para mejorar las comunicaciones militares. Fue entonces cuando se desarrollaron los primeros dispositivos electrónicos basados en semiconductores, como los diodos y los transistores.<br><br>
-	   <img src="./Media/semi6.png" style="width: 100%;"><br><br>
-	   El transistor, inventado en 1947 por John Bardeen, Walter Brattain y William Shockley en los laboratorios Bell, fue un avance revolucionario en la industria electrónica. Reemplazó a las válvulas de vacío utilizadas hasta ese momento, ya que era más pequeño, más confiable y consumía menos energía. Esto permitió la miniaturización de los dispositivos electrónicos, lo que a su vez condujo al desarrollo de la electrónica portátil, como las radios transistorizadas y los primeros ordenadores.<br>br>
-	   <img src="./Media/semi7.jpg" style="width: 100%;"><br><br>
+	   <img src="Media/semi6.png" style="width: 100%;"><br><br>
+	   El transistor, inventado en 1947 por John Bardeen, Walter Brattain y William Shockley en los laboratorios Bell, fue un avance revolucionario en la industria electrónica. Reemplazó a las válvulas de vacío utilizadas hasta ese momento, ya que era más pequeño, más confiable y consumía menos energía. Esto permitió la miniaturización de los dispositivos electrónicos, lo que a su vez condujo al desarrollo de la electrónica portátil, como las radios transistorizadas y los primeros ordenadores. <br><br>
+	   <img src="Media/semi7.jpg" style="width: 100%;"><br><br>
 	   En la década de 1960, se introdujo otro avance importante en la industria de los semiconductores: el circuito integrado. Jack Kilby de Texas Instruments y Robert Noyce de Fairchild Semiconductor desarrollaron de forma independiente el concepto de integrar múltiples transistores en un solo chip de silicio. Esto permitió la fabricación masiva de dispositivos electrónicos más complejos y a un menor costo.<br><br>
 	   A partir de entonces, la industria de los semiconductores ha experimentado un crecimiento exponencial. Los avances en la tecnología han permitido la fabricación de chips cada vez más pequeños y potentes, lo que ha impulsado el desarrollo de computadoras más rápidas, teléfonos inteligentes, dispositivos médicos, automóviles eléctricos y muchas otras innovaciones tecnológicas.<br><br>
-	   <img src="./Media/semi3.jpeg" style="width: 100%;"><br><br>
-	   Hoy en día, los semiconductores son una parte integral de nuestra vida cotidiana y su importancia solo continúa creciendo. La historia de los semiconductores es un claro ejemplo de cómo la curiosidad científica y la búsqueda de soluciones prácticas pueden dar lugar a descubrimientos que transforman el mundo.<br><br>
+	   <img src="Media/semi3.jpeg" style="width: 100%;"><br><br>
+	   Hoy en día, los semiconductores son una parte integral de nuestra vida cotidiana y su importancia solo continúa creciendo. La historia de los semiconductores es un claro ejemplo de cómo la curiosidad científica y la búsqueda de soluciones prácticas pueden dar lugar a descubrimientos que transforman el mundo. <br><br>
 	   </p>
 	 </div>`
 
@@ -72,7 +72,7 @@ En resumen, las características clave de los semiconductores son su conductivid
   En un semiconductor tipo n, se agrega una impureza con átomos que tienen más electrones en su capa de valencia que el semiconductor original. Estos átomos adicionales liberan electrones adicionales a la banda de conducción, lo que aumenta la cantidad de portadores de carga negativos (electrones) en el semiconductor.<br><br>
   En un semiconductor tipo p, se agrega una impureza con átomos que tienen menos electrones en su capa de valencia que el semiconductor original. Estos átomos "faltantes" crean huecos en la banda de valencia, que pueden ser ocupados por electrones de la banda de conducción. Esto crea portadores de carga positivos (huecos) en el semiconductor.<br><br>
   La combinación de semiconductores tipo n y tipo p es fundamental para la construcción de dispositivos electrónicos como los diodos y los transistores. Estos dispositivos se basan en la interacción entre los portadores de carga negativos y positivos para controlar el flujo de corriente eléctrica.<br><br>
-  <img src="./Media/semi8.png" style="width: 100%;background-color:#fff;"><br><br>
+  <img src="Media/semi8.png" style="width: 100%;background-color:#fff;"><br><br>
   </p>		
   
   </div>`
